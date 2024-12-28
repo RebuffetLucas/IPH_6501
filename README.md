@@ -1,5 +1,3 @@
-# Meta-NK consortium: A standardized terminology that provides a basis for subsequent studies of the role of human Natural killer (NK) cells in health and disease.
-
 ## Article information
 
 **Title:** A tetraspecific engager armed with a non-alpha IL-2 variant harnesses natural killer cells against B cell non-Hodgkin lymphoma 
